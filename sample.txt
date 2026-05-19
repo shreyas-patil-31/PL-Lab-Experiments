@@ -1,0 +1,4 @@
+Hello, this is a file handling example.
+Python makes file handling easy.
+Also, Shreyas is a nice guy!.
+This line is added later by Shreyas!.
